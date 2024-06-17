@@ -5,5 +5,15 @@ xhofe/alist:latest
 gotify/server:latest
 xubiaolin/zerotier-planet:latest
 gdy666/lucky:latest
+linuxserver/transmission:latest
+linuxserver/qbittorrent:latest
+portainer/portainer:latest
+hanxi/xiaomusic:latest
+tinymediamanager/tinymediamanager:latest
+selenium/standalone-chrome-debug:latest
+mogeko/vlmcsd:latest
+portainer/portainer-ce:latest
+home-assistant/home-assistant:stable
+DDS-Derek/xiaoya-alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
