@@ -2,6 +2,7 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+gotify/server:latest
 xubiaolin/zerotier-planet:latest
 gdy666/lucky:latest
 linuxserver/transmission:latest
@@ -12,6 +13,5 @@ tinymediamanager/tinymediamanager:latest
 selenium/standalone-chrome-debug:latest
 mogeko/vlmcsd:latest
 portainer/portainer-ce:latest
-gotify/server:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
