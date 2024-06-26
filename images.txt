@@ -1,7 +1,7 @@
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-docker.m.daocloud.io/postgres:11.12
+docker.m.daocloud.io/postgres:14.2
 xhofe/alist:latest
 gotify/server:latest
 xubiaolin/zerotier-planet:latest
