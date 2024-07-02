@@ -17,6 +17,7 @@ mogeko/vlmcsd:latest
 portainer/portainer-ce:latest
 tailscale/tailscale:latest
 filebrowser/filebrowser:latest
+snowdreamtech/frps:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 xjming1314/pppoe-server-image:latest
