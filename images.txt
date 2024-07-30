@@ -2,6 +2,7 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 rustdesk/rustdesk-server:latest
+rustdesk/rustdesk-server-s6:latest
 xjming1314/pppoe-server-image:latest
 xjming1314/pppoe-server-image-x86:latest
 docker.m.daocloud.io/postgres:14.2
